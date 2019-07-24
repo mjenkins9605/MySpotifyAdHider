@@ -12,4 +12,4 @@ Still working on getting the icon to show properly but not top priority.
 
 - Should be set
 
-Manifest and CSS file are all you need. The PNG images are not necessary for this to work.
+Manifest and CSS file are the important files. The PNG images are not necessary for this to work.
