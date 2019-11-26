@@ -4,11 +4,13 @@ Enjoy Spotify music. I use the webplayer and it is on seperate monitor. The ads 
 
 Still working on getting the icon to show properly but not top priority. 
 
+- Clone Repo
+
 - Open Chrome, then extensions (chrome://extensions/)
 
 - Turn on Developer Mode
 
-- Drag and drop MySpotifyAdHider into window
+- Drag and drop cloned MySpotifyAdHider folder into window
 
 - Should be set
 
